@@ -8,4 +8,4 @@ I'm sure that shortcut will help me a lot later on. I also understood how adding
 18.8.2024
 I decided to start working on my own project alongside the exercise project so I created a separate directory for that. I'm pretty sure I will make it a CV / portfolio for myself, I can't really come up with any other ideas. 
 I continued learning about CSS and there was many new things I didn't know beforehand. Personally I felt like learning about variables was the most important one because having to copy and paste hex codes is something I have found very annoying before. 
-Nesting was not a completely new thing to me but now I definitely understand the way it works better.
+Nesting was not a completely new thing to me but now I definitely understand the way it works better. 
