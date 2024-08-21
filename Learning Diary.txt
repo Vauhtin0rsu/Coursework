@@ -1,11 +1,16 @@
-__.8.2024
+__.8.2024 Introduction and Base HTML
 I set up the repository for the course and looked into the module tasklist. I checked the first part of the video but since this is not my first time doing HTML I didnt really learn anything new. 
 
-17.8.2024
+17.8.2024 Introduction and Base HTML
 I continued with the exercise material. I created a homepage HTML markup and wrote also some css. The most important thing I learnt was to write HTML more effectively on vscode: for example writing "div.container" creates a div tag that has a class named "container".
 I'm sure that shortcut will help me a lot later on. I also understood how adding fonts to your website works.
 
-18.8.2024
+18.8.2024 Links and Core CSS
 I decided to start working on my own project alongside the exercise project so I created a separate directory for that. I'm pretty sure I will make it a CV / portfolio for myself, I can't really come up with any other ideas. 
 I continued learning about CSS and there was many new things I didn't know beforehand. Personally I felt like learning about variables was the most important one because having to copy and paste hex codes is something I have found very annoying before. 
 Nesting was not a completely new thing to me but now I definitely understand the way it works better. 
+
+21.8.2024 Buttons & Utility Classes
+Today I completed the tasks regarding creating buttons and different sections on the webpage.
+Personally the most important thing I learnt was using sections in html markup and the efficiency of creating different utility classes for backgrounds and headings etc. Creating bunch of css classes first and using them when making new sections to the page kept the style constant.
+During these particular tasks I also understood how important it is to comment when writing css and html. For example sorting css classes under different headings helps to find them later if something needs to be changed.
